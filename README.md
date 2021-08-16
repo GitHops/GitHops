@@ -1,9 +1,9 @@
 - Hello, It's your Hops but programming ! @GitHops
 - I am a real beer man learning to code and hops is my vibe. 
 -
-- Profile: Ngo Tung Thao
+- Aka: Ngo Tung Thao
 - Age: 27
-- Organization: Heineken International
+- Code for Heineken International
 -
 - Currently I'm at entry level but learning for full-stack development
 - 💞️ I’m looking to collaborate on Wiki, PHP Frameworks, MS Team and Sharepoint back-end
