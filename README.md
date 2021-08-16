@@ -15,6 +15,6 @@
 <!---
 GitHops/GitHops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> https://biaviet.org 
+--->
 - A non-profit platform I'm building, take a quick look and hope you guys are interested !
 - ____________
